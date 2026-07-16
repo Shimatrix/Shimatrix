@@ -8,9 +8,9 @@
 - **Дизайн и UX:** Figma
 
 ### Коммерческая разработка:
-- **ProCharuty** Teamlead микросервиса платформы, продакшн -  https://procharity.ru
-- **Центр семейного образования** Teamlead проекта, продакшн -  https://familyeducationcenter.ru
-- **4 внутренних проекта Yandex** frontend разработчик, проекты под NDA.
+- **ProCharuty:** Teamlead микросервиса платформы, продакшн -  https://procharity.ru
+- **Центр семейного образования:** Teamlead проекта, продакшн -  https://familyeducationcenter.ru
+- **4 внутренних проекта Yandex:** frontend разработчик, проекты под NDA.
 
  Контакты:
 - Telegram: @shimatrix
